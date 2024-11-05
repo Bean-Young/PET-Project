@@ -16,7 +16,7 @@ The primary target users of this project are equipment manufacturers and large h
 
 There are several competitors in the PET image reconstruction space, including other research teams, medical equipment manufacturers, and research institutions. However, we believe that through our unique methods and technologies, we can maintain a competitive edge in this field. We are committed to contributing to the advancement of healthcare by improving the quality and efficiency of PET imaging, facilitating early disease detection and treatment.
 
-![Demo](/Supporting%20Materials/Demo.png)
+![Demo](/Supporting%20Materials/Demo.jpg)
 
 
 ## ***Achievements***
