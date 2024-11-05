@@ -1,6 +1,6 @@
 # PET-Project
 
-This project was created by ***Yuezhe Yang*** for the project "**DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality**" ([project link](https://cy.ncss.cn/talentproject/detail/2c9581078f766ee1018f913aade77788))
+This project was created by ***Yuezhe Yang*** for the project "**DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality**" ([project link](https://cy.ncss.cn/talentproject/detail/2c9581078f766ee1018f913aade77788)).
 
 ## ***Abstract***
 
