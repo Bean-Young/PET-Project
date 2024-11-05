@@ -16,6 +16,9 @@ The primary target users of this project are equipment manufacturers and large h
 
 There are several competitors in the PET image reconstruction space, including other research teams, medical equipment manufacturers, and research institutions. However, we believe that through our unique methods and technologies, we can maintain a competitive edge in this field. We are committed to contributing to the advancement of healthcare by improving the quality and efficiency of PET imaging, facilitating early disease detection and treatment.
 
+![Demo](/Supporting%20Materials/Demo.png)
+
+
 ## ***Achievements***
 
 
@@ -24,7 +27,7 @@ There are several competitors in the PET image reconstruction space, including o
 ![Invention Patent Filed](/Supporting%20Materials/Invention%20Patent%20Filed.png)
 - **July 2024**: Our project, *Learning-Based Brain PET Image Reconstruction Method and Interpretability Study* was selected for the 2024 National Undergraduate Innovation and Entrepreneurship Training Program!  
   **Project Number**: 202410357131
-
+![Undergraduate Innovation and Entrepreneurship Training Program](/Supporting%20Materials/Undergraduate%20Innovation%20and%20Entrepreneurship%20Training%20Program.png)
 - **July 2024**: Our work, *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*, won the **Gold Award** in the 2024 Anhui University Innovation Competition for College Students!  
   **Certificate Number**: HLW-2024090574
 ![Anhui University Innovation Competition](/Supporting%20Materials/Anhui%20University%20Innovation%20Competition.png)
