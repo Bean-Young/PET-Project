@@ -19,29 +19,30 @@ There are several competitors in the PET image reconstruction space, including o
 ## ***Achievements***
 
 
-- **April 2024**: Our invention patent, "PET Image Reconstruction Method Based on Prior Images and 3D Perception Method for PET Images," was successfully filed!  
-  **Patent Application Number**: 202410439671.1
-
-- **July 2024**: Our project, "Learning-Based Brain PET Image Reconstruction Method and Interpretability Study," was selected for the 2024 National Undergraduate Innovation and Entrepreneurship Training Program!  
+- **April 2024**: Our invention patent, *PET Image Reconstruction Method Based on Prior Images and 3D Perception Method for PET Images* was successfully filed!  
+  **Patent Application Number**: 202410439671.1 ([patent link](/Supporting Materials/PET Image Reconstruction Method Based on Prior Images and 3D Perception Method for PET Images.pdf))
+![Invention Patent Filed](/Supporting Materials/Invention Patent Filed.png)
+- **July 2024**: Our project, *Learning-Based Brain PET Image Reconstruction Method and Interpretability Study* was selected for the 2024 National Undergraduate Innovation and Entrepreneurship Training Program!  
   **Project Number**: 202410357131
 
 - **July 2024**: Our work, *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*, won the **Gold Award** in the 2024 Anhui University Innovation Competition for College Students!  
   **Certificate Number**: HLW-2024090574
-
-- **July 2024**: Our invention patent, "PET Image Reconstruction Method Based on Prior Images and 3D Perception Method for PET Images," was successfully published and entered substantive examination.  
+![Anhui University Innovation Competition](/Supporting Materials/Anhui University Innovation Competition.png)
+- **July 2024**: Our invention patent, *PET Image Reconstruction Method Based on Prior Images and 3D Perception Method for PET Images* was successfully published and entered substantive examination.  
   **Publication Serial Number**: 2024073000241600
-
+![Invention Patent Published](/Supporting Materials/Invention Patent Published.png)
+![Invention Patent Substantive Examination](/Supporting Materials/Invention Patent Substantive Examination.png)
 - **August 2024**: Our work, *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*, won the **Gold Award** in the Grand Final of the 2024 Anhui Provincial College Students Innovation Competition (Higher Education Main Track)!  
   **Certificate Number**: 202410019
-
+![Anhui University Innovation Competition](/Supporting Materials/Anhui University Innovation Competition.png)
 - **September 2024**: Our project, *DeepPET: A Brain PET Image Reconstruction Algorithm and Device Based on Deep Learning*, won the **Bronze Award** in the 14th "Challenge Cup" Entrepreneurship Competition for College Students at Anhui University!  
   **Certificate Number**: 2024-TZB14-AHU049
-
+![Anhui University Innovation Competition](/Supporting Materials/Anhui University Innovation Competition.png)
 ## ***Citation***
 
 ``````bibtex
 @misc{PET-Project,
-	title = {DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*},
+	title = {DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality},
 	author = {Yuezhe Yang},
 	year = {2024},
 	url = {https://github.com/Bean-Young/PET-Project},
