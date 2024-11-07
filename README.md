@@ -21,13 +21,15 @@ There are several competitors in the PET image reconstruction space, including o
 
 ## ***Achievements***
 
-
+- **January 2024**: Our project, *Learning-Based Brain PET Image Reconstruction Method and Interpretability Study* successfully secured a university-level grant under the 2024 Undergraduate Innovation and Entrepreneurship Training Program!  
+  **Project Number**: X20240759 ([Appliacation Link](/Supporting%20Materials/Learning-Based%20Brain%20PET%20Image%20Reconstruction%20Method%20and%20Interpretability%20Study-Application.pdf))
+![Undergraduate Innovation and Entrepreneurship Training Program(School)](/Supporting%20Materials/Undergraduate%20Innovation%20and%20Entrepreneurship%20Training%20Program(School).png)
 - **April 2024**: Our invention patent, *PET Image Reconstruction Method Based on Prior Images and 3D Perception Method for PET Images* was successfully filed!  
-  **Patent Application Number**: 202410439671.1 ([patent link](/Supporting%20Materials/PET%20Image%20Reconstruction%20Method%20Based%20on%20Prior%20Images%20and%203D%20Perception%20Method%20for%20PET%20Images.pdf))
+  **Patent Application Number**: 202410439671.1 ([Patent Link](/Supporting%20Materials/PET%20Image%20Reconstruction%20Method%20Based%20on%20Prior%20Images%20and%203D%20Perception%20Method%20for%20PET%20Images.pdf))
 ![Invention Patent Filed](/Supporting%20Materials/Invention%20Patent%20Filed.png)
 - **July 2024**: Our project, *Learning-Based Brain PET Image Reconstruction Method and Interpretability Study* was selected for the 2024 National Undergraduate Innovation and Entrepreneurship Training Program!  
-  **Project Number**: 202410357131
-![Undergraduate Innovation and Entrepreneurship Training Program](/Supporting%20Materials/Undergraduate%20Innovation%20and%20Entrepreneurship%20Training%20Program.png)
+  **Project Number**: 202410357131([Mid-term Progress Report Link](/Supporting%20Materials/Learning-Based%20Brain%20PET%20Image%20Reconstruction%20Method%20and%20Interpretability%20Study-Mid-term.pdf))
+![Undergraduate Innovation and Entrepreneurship Training Program(National)](/Supporting%20Materials/Undergraduate%20Innovation%20and%20Entrepreneurship%20Training%20Program(National).png)
 - **July 2024**: Our work, *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*, won the **Gold Award** in the 2024 Anhui University Innovation Competition for College Students!  
   **Certificate Number**: HLW-2024090574
 ![Anhui University Innovation Competition](/Supporting%20Materials/Anhui%20University%20Innovation%20Competition.png)
