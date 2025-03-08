@@ -2,6 +2,8 @@
 
 This project was created by ***Yuezhe Yang*** for the project "**DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality**".
 
+### [Project Page](https://petahu.github.io)
+
 ## ***Abstract***
 
 Positron Emission Tomography (PET) is one of the key imaging technologies in the field of nuclear medicine, utilizing positron emission to observe biological activity. PET plays an indispensable role in medical diagnosis and treatment, particularly in early disease detection and treatment outcome evaluation. However, PET technology currently faces several challenges, including improving image quality, reducing radiation dose, and shortening scanning time. These challenges have limited the widespread clinical application of PET. To address these issues, current research is primarily focused on hardware improvements and optimization of image reconstruction algorithms.
