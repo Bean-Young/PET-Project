@@ -1,6 +1,6 @@
 # PET-Project
 
-This project was created by [***Yuezhe Yang***](https://bean-young.github.io)_ for the project "**DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality**".
+This project was created by [***Yuezhe Yang***](https://bean-young.github.io) for the project "**DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality**".
 
 ### [Project Page](https://petahu.github.io)
 
