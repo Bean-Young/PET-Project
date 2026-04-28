@@ -1,98 +1,117 @@
-# DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality
+# PET-Project
 
-<p align="center">
-  <a href="https://bean-young.github.io/petahu/"><b>Project Page</b></a> |
-  <a href="https://github.com/Bean-Young/PET-Project"><b>Repository</b></a> |
-  <a href="https://bean-young.github.io/petahu/"><b>Demo Video</b></a>
-</p>
+This project was created by [***Yuezhe Yang***](https://bean-young.github.io) for the project "**DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality**".
 
-<p align="center">
-  <img src="Supporting%20Materials/Demo.jpg" alt="DeepPET overview" width="82%">
-</p>
+### [**Project Page**](https://bean-young.github.io/petahu/)
 
-This project was created by [Yuezhe Yang](https://bean-young.github.io) for **DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality**.
+## ***Abstract***
 
-**Affiliation:** Anhui Provincial International Joint Research Center for Advanced Technology in Medical Imaging, Anhui University
+Positron Emission Tomography (PET) is one of the key imaging technologies in the field of nuclear medicine, utilizing positron emission to observe biological activity. PET plays an indispensable role in medical diagnosis and treatment, particularly in early disease detection and treatment outcome evaluation. However, PET technology currently faces several challenges, including improving image quality, reducing radiation dose, and shortening scanning time. These challenges have limited the widespread clinical application of PET. To address these issues, current research is primarily focused on hardware improvements and optimization of image reconstruction algorithms.
 
-## Highlights
+The vision of this project is to propose an innovative PET image reconstruction method that combines physical models with deep learning techniques to enhance imaging accuracy and efficiency while reducing radiation dose.
 
-- Fuse physics models with deep learning for accurate and efficient PET reconstruction.
-- Apply generative models to enhance low-count PET images and remove artifacts.
-- Optimize low-dose reconstruction for faster imaging and reduced radiation exposure.
+The advantage of this project lies in its comprehensive consideration of multiple factors, including cost, image quality, imaging speed, and radiation dose, to provide a superior PET image reconstruction solution. First, our method will integrate physical models and deep learning to achieve efficient PET image reconstruction. Compared to traditional methods, our approach requires fewer sensors and more refined equipment, thus lowering costs. Second, our method enables faster image reconstruction. Deep learning techniques have demonstrated outstanding performance in image processing, significantly accelerating reconstruction and saving time. Most importantly, our method also reduces the radiation dose. By optimizing the image reconstruction algorithm, we can reduce the required radiation dose while ensuring imaging quality, thus lowering the radiation risk for patients.
 
-## Abstract
+Specifically, this project will focus on two areas of research. First, we will explore efficient PET image reconstruction algorithms based on both model and data. This will involve combining iterative reconstruction algorithms, attenuation correction, and deep learning techniques to achieve high-quality PET image reconstruction. Second, we will investigate artifact-removal methods enhanced by generative models. Using conditional generative models, low-count PET images will be converted into high-count images, improving the performance of subsequent registration and producing artifact-free PET images. These studies will open up new possibilities for advancing PET technology and its applications, contributing to the development of the healthcare sector.
 
-This project improves PET image reconstruction by combining physical models with deep learning. Our goal is to enhance imaging accuracy, boost efficiency, and lower radiation exposure. We optimize cost, speed, and quality by using fewer sensors, refining equipment, and applying advanced reconstruction methods.
+The primary target users of this project are equipment manufacturers and large hospitals. Our vision is to provide superior PET image reconstruction solutions that offer more accurate and reliable assistance, thereby promoting progress in the healthcare field.
 
-Our research focuses on efficient PET reconstruction using both model- and data-driven approaches. We also explore generative models to remove artifacts.
+There are several competitors in the PET image reconstruction space, including other research teams, medical equipment manufacturers, and research institutions. However, we believe that through our unique methods and technologies, we can maintain a competitive edge in this field. We are committed to contributing to the advancement of healthcare by improving the quality and efficiency of PET imaging, facilitating early disease detection and treatment.
 
-Equipment manufacturers and hospitals will benefit from these innovations. Despite competition, our advanced techniques will secure a strong market position. This work will drive progress in medical imaging and healthcare.
+![Demo](/Supporting%20Materials/Demo.jpg)
 
-## Gallery
+## ***Achievements***
 
-<table>
-  <tr>
-    <td><img src="assets/gallery/1.jpg" alt="Project gallery 1"></td>
-    <td><img src="assets/gallery/2.jpg" alt="Project gallery 2"></td>
-    <td><img src="assets/gallery/3.jpg" alt="Project gallery 3"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/gallery/4.jpg" alt="Project gallery 4"></td>
-    <td><img src="assets/gallery/5.jpg" alt="Project gallery 5"></td>
-    <td><img src="assets/gallery/6.jpg" alt="Project gallery 6"></td>
-  </tr>
-</table>
+### 2025
 
-## Honors
+- **September 2025**: Our project, *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*, won the **Gold Award** in the Higher Education Main Track of the Anhui Provincial College Students Innovation Competition (2025).
+  **Certificate Number**: 202510174
+  <details>
+    <summary>Certificate</summary>
+    <img src="assets/achievements/2025-provincial-innovation-gold.jpg" alt="2025 Anhui Provincial College Students Innovation Competition Gold Award" width="640">
+  </details>
 
-<table>
-  <tr>
-    <td><img src="assets/honors/1.png" alt="Honor 1"></td>
-    <td><img src="assets/honors/2.png" alt="Honor 2"></td>
-    <td><img src="assets/honors/3.png" alt="Honor 3"></td>
-    <td><img src="assets/honors/4.jpg" alt="Honor 4"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/honors/5.jpg" alt="Honor 5"></td>
-    <td><img src="assets/honors/6.jpg" alt="Honor 6"></td>
-    <td><img src="assets/honors/7.jpg" alt="Honor 7"></td>
-    <td><img src="assets/honors/8.jpg" alt="Honor 8"></td>
-  </tr>
-</table>
+- **September 2025**: Our project, *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*, won the **Bronze Award** in the Science and Technology Innovation Track of the 15th "Chuang Qingchun · Huishang Bank" Anhui Youth Innovation and Entrepreneurship Competition.
+  **Certificate Number**: 2025-CQCAH2509-KJCX063
+  <details>
+    <summary>Certificate</summary>
+    <img src="assets/achievements/2025-youth-innovation-bronze.jpg" alt="2025 Anhui Youth Innovation and Entrepreneurship Competition Bronze Award" width="640">
+  </details>
 
-## Patent
+- **July 2025**: Our work, *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*, won the **Gold Award** in the 2025 Anhui University Innovation Competition for College Students.
+  **Certificate Number**: HLW-2025090008
+  <details>
+    <summary>Certificate</summary>
+    <img src="assets/achievements/2025-ahu-innovation-gold.jpg" alt="2025 Anhui University Innovation Competition Gold Award" width="640">
+  </details>
 
-<table>
-  <tr>
-    <td><img src="assets/patents/1.jpg" alt="Patent certificate 1"></td>
-    <td><img src="assets/patents/2.jpg" alt="Patent certificate 2"></td>
-  </tr>
-</table>
+- **June 2025**: The national-level Undergraduate Innovation Training Program project *Learning-Based Brain PET Image Reconstruction Method and Interpretability Study* passed final evaluation with an **Excellent** rating.
+  **Project Number**: 202410357131
+  <details>
+    <summary>Certificate</summary>
+    <img src="assets/achievements/2025-national-training-excellent-completion.jpg" alt="2025 National Undergraduate Innovation Training Program Excellent Completion" width="640">
+  </details>
 
-## Milestones
+- **May 2025**: The project *Learning-Based Brain PET Image Reconstruction Method and Interpretability Study* was recognized as a **2025 Anhui University Innovation Star Team** under the Undergraduate Innovation Training Program.
+  **Project Number**: 202410357131
+  <details>
+    <summary>Certificate</summary>
+    <img src="assets/achievements/2025-innovation-star-team.jpg" alt="2025 Anhui University Innovation Star Team" width="640">
+  </details>
 
-- **January 2024:** *Learning-Based Brain PET Image Reconstruction Method and Interpretability Study* secured a university-level grant under the 2024 Undergraduate Innovation and Entrepreneurship Training Program.
-  Project number: `X20240759` | [Application](Supporting%20Materials/Learning-Based%20Brain%20PET%20Image%20Reconstruction%20Method%20and%20Interpretability%20Study-Application.pdf)
+### 2024
 
-- **April 2024:** The invention patent *PET Image Reconstruction Method Based on Prior Images and 3D Perception Method for PET Images* was filed.
-  Patent application number: `202410439671.1` | [Patent PDF](Supporting%20Materials/PET%20Image%20Reconstruction%20Method%20Based%20on%20Prior%20Images%20and%203D%20Perception%20Method%20for%20PET%20Images.pdf)
+- **January 2024**: Our project, *Learning-Based Brain PET Image Reconstruction Method and Interpretability Study*, successfully secured a university-level grant under the 2024 Undergraduate Innovation and Entrepreneurship Training Program.
+  **Project Number**: X20240759 ([Application Link](/Supporting%20Materials/Learning-Based%20Brain%20PET%20Image%20Reconstruction%20Method%20and%20Interpretability%20Study-Application.pdf))
+  <details>
+    <summary>Certificate</summary>
+    <img src="/Supporting%20Materials/Undergraduate%20Innovation%20and%20Entrepreneurship%20Training%20Program(School).png" alt="Undergraduate Innovation and Entrepreneurship Training Program, School Level" width="640">
+  </details>
 
-- **July 2024:** The project was selected for the 2024 National Undergraduate Innovation and Entrepreneurship Training Program.
-  Project number: `202410357131` | [Mid-term Report](Supporting%20Materials/Learning-Based%20Brain%20PET%20Image%20Reconstruction%20Method%20and%20Interpretability%20Study-Mid-term.pdf)
+- **April 2024**: Our invention patent, *PET Image Reconstruction Method Based on Prior Images and 3D Perception Method for PET Images*, was successfully filed.
+  **Patent Application Number**: 202410439671.1 ([Patent Link](/Supporting%20Materials/PET%20Image%20Reconstruction%20Method%20Based%20on%20Prior%20Images%20and%203D%20Perception%20Method%20for%20PET%20Images.pdf))
+  <details>
+    <summary>Certificate</summary>
+    <img src="/Supporting%20Materials/Invention%20Patent%20Filed.png" alt="Invention Patent Filed" width="640">
+  </details>
 
-- **July 2024:** *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality* won the Gold Award in the 2024 Anhui University Innovation Competition for College Students.
-  Certificate number: `HLW-2024090574`
+- **July 2024**: Our project, *Learning-Based Brain PET Image Reconstruction Method and Interpretability Study*, was selected for the 2024 National Undergraduate Innovation and Entrepreneurship Training Program.
+  **Project Number**: 202410357131 ([Mid-term Progress Report Link](/Supporting%20Materials/Learning-Based%20Brain%20PET%20Image%20Reconstruction%20Method%20and%20Interpretability%20Study-Mid-term.pdf))
+  <details>
+    <summary>Certificate</summary>
+    <img src="/Supporting%20Materials/Undergraduate%20Innovation%20and%20Entrepreneurship%20Training%20Program(National).png" alt="Undergraduate Innovation and Entrepreneurship Training Program, National Level" width="640">
+  </details>
 
-- **July 2024:** The invention patent was published and entered substantive examination.
-  Publication serial number: `2024073000241600`
+- **July 2024**: Our work, *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*, won the **Gold Award** in the 2024 Anhui University Innovation Competition for College Students.
+  **Certificate Number**: HLW-2024090574
+  <details>
+    <summary>Certificate</summary>
+    <img src="/Supporting%20Materials/Anhui%20University%20Innovation%20Competition.png" alt="2024 Anhui University Innovation Competition Gold Award" width="640">
+  </details>
 
-- **August 2024:** The project won the Gold Award in the Grand Final of the 2024 Anhui Provincial College Students Innovation Competition, Higher Education Main Track.
-  Certificate number: `202410019`
+- **July 2024**: Our invention patent, *PET Image Reconstruction Method Based on Prior Images and 3D Perception Method for PET Images*, was successfully published and entered substantive examination.
+  **Publication Serial Number**: 2024073000241600
+  <details>
+    <summary>Certificates</summary>
+    <img src="/Supporting%20Materials/Invention%20Patent%20Published.png" alt="Invention Patent Published" width="640">
+    <img src="/Supporting%20Materials/Invention%20Patent%20Substantive%20Examination.png" alt="Invention Patent Substantive Examination" width="640">
+  </details>
 
-- **September 2024:** *DeepPET: A Brain PET Image Reconstruction Algorithm and Device Based on Deep Learning* won the Bronze Award in the 14th "Challenge Cup" Entrepreneurship Competition for College Students at Anhui University.
-  Certificate number: `2024-TZB14-AHU049`
+- **August 2024**: Our work, *DeepPET: An Intelligent Brain PET Device with Low Radiation and High Imaging Quality*, won the **Gold Award** in the Grand Final of the 2024 Anhui Provincial College Students Innovation Competition (Higher Education Main Track).
+  **Certificate Number**: 202410019
+  <details>
+    <summary>Certificate</summary>
+    <img src="/Supporting%20Materials/Anhui%20Provincial%20College%20Students%20Innovation%20Competition.png" alt="2024 Anhui Provincial College Students Innovation Competition Gold Award" width="640">
+  </details>
 
-## Citation
+- **September 2024**: Our project, *DeepPET: A Brain PET Image Reconstruction Algorithm and Device Based on Deep Learning*, won the **Bronze Award** in the 14th "Challenge Cup" Entrepreneurship Competition for College Students at Anhui University.
+  **Certificate Number**: 2024-TZB14-AHU049
+  <details>
+    <summary>Certificate</summary>
+    <img src="/Supporting%20Materials/14th%20%22Challenge%20Cup%22%20Entrepreneurship%20Competition%20for%20College%20Students.png" alt="14th Challenge Cup Bronze Award" width="640">
+  </details>
+
+## ***Citation***
 
 ```bibtex
 @misc{PET-Project,
